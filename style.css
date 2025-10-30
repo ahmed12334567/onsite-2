@@ -273,7 +273,6 @@ font-size: 40px;
     color: white;
 }
 .gellary .imgs {
-  width: 90%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -479,5 +478,6 @@ footer {
     gap: 20px;
   }
 }
+
 
 
