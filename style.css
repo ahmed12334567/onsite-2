@@ -263,7 +263,7 @@ font-size: 40px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding: 0 200px;
+
 }
 
 .gellary h2 {
@@ -478,6 +478,7 @@ footer {
     gap: 20px;
   }
 }
+
 
 
 
